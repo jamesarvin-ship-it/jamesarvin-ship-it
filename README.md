@@ -1,13 +1,21 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1E3B,100:FF7700&height=200&section=header&text=James%20Arvin&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CEO%20at%20Mavricon&descAlignY=58&descSize=18" width="100%" />
+<!-- LOGO: replace the URL below with your uploaded logo -->
+</div><img width="1920" height="621" alt="mavricon-logo-long-light" src="https://github.com/user-attachments/assets/27407a01-6613-4612-ac68-2eeccb1d1fac" />
+<br/><br/>
 
-### `The OS for Construction. Built by builders.`
+# James Arvin
+
+### Founder & CEO, Mavricon
+
+`The OS for Construction. Built by builders.`
+
+<br/>
 
 [![Mavricon](https://img.shields.io/badge/Visit-Mavricon-FF7700?style=for-the-badge&logoColor=white)](https://www.mavricon.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F1E3B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesarvin)
-[![Email](https://img.shields.io/badge/Email-192C53?style=for-the-badge&logo=gmail&logoColor=white)](mailto:james@mavricon.com)
+[![LinkedIn Personal](https://img.shields.io/badge/LinkedIn-0F1E3B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-arvin/)
+[![Mavricon Company](https://img.shields.io/badge/Company-192C53?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/mavricon/)
+[![Email](https://img.shields.io/badge/Email-D97706?style=for-the-badge&logo=gmail&logoColor=white)](mailto:james@mavricon.com)
 
 </div>
 
@@ -15,7 +23,7 @@
 
 ## 👋 About
 
-**Founder & CEO of [Mavricon](https://www.mavricon.com)** — the AI-native alternative to Procore, Aconex, and the construction software incumbents that haven't meaningfully innovated in a decade.
+Building the **AI-native alternative to Procore, Aconex, and the construction software incumbents** that haven't meaningfully innovated in a decade.
 
 📍 Brisbane 🇦🇺 · Shipping daily from private repos · AI-native by default
 
@@ -65,10 +73,6 @@ Priced on annual construction volume, not seat count. AI woven through every too
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamesarvin-ship-it&bg_color=0F1E3B&color=FF7700&line=FF7700&point=FFFFFF&area=true&area_color=FF7700&hide_border=true&custom_title=Contribution%20Activity" width="98%" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=jamesarvin-ship-it&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience" width="98%" />
-
 </div>
 
 ---
@@ -81,7 +85,7 @@ Priced on annual construction volume, not seat count. AI woven through every too
 **Timezone:** Brisbane preferred, remote-friendly
 
 <p>
-<a href="mailto:james.arvin@mavricon.com?subject=Founding%20Engineer%20Application"><img src="https://img.shields.io/badge/Apply%20direct%20→-FF7700?style=for-the-badge&logoColor=white" /></a>
+<a href="mailto:james@mavricon.com?subject=Founding%20Engineer%20Application"><img src="https://img.shields.io/badge/Apply%20direct%20→-FF7700?style=for-the-badge&logoColor=white" /></a>
 </p>
 
 ---
@@ -92,4 +96,4 @@ Priced on annual construction volume, not seat count. AI woven through every too
 
 *Built in Brisbane · Shipped Daily*
 
-</div>
+
