@@ -55,7 +55,7 @@ Most of Mavricon lives in private repos — the contribution graph tells the rea
 
 **Founding engineers** who ship fast, own problems end-to-end, push back when the direction's wrong, and are AI-native by default. React · TypeScript · Supabase · Claude Code. Remote-friendly, Brisbane timezone preferred.
 
-**→ [james@mavricon.com](mailto:james@mavricon.com)**
+**→ [james@mavricon.com](mailto:james.arvin@mavricon.com)**
 
 ---
 
